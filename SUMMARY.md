@@ -2,6 +2,10 @@
 
 * [👋 欢迎来到服务器 Wiki](README.md)
 
-## Overview
+## 概述
 
-* [💡 我在服务器该做什么？](overview/wo-zai-fu-wu-qi-gai-zuo-shi-mo.md)
+* [🎓 我该如何进入服务器？](gai-shu/wo-gai-ru-he-jin-ru-fu-wu-qi.md)
+
+***
+
+* [🧳 注册与登录](zhu-ce-yu-deng-lu.md)

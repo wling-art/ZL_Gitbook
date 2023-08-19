@@ -1,15 +1,14 @@
 # Table of contents
 
 * [👋 欢迎来到服务器 Wiki](README.md)
-* [📘 服务器介绍](fu-wu-qi-jie-shao.md)
-* [📃 服务器规则](fu-wu-qi-gui-ze.md)
+* [📘 服务器介绍](gai-shu/fu-wu-qi-jie-shao.md)
+* [📃 服务器规则](qi-ta/fu-wu-qi-gui-ze.md)
 
 ## 入门
 
 * [🎓 我该如何进入服务器？](ru-men/wo-gai-ru-he-jin-ru-fu-wu-qi.md)
 * [🔦 一个正确的游戏名](gai-shu/yi-ge-zheng-que-de-you-xi-ming.md)
 * [🧳 注册与登录](gai-shu/zhu-ce-yu-deng-lu.md)
-* [✏ 服务器阶级](ru-men/fu-wu-qi-jie-ji.md)
 
 ## 教程
 

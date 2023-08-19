@@ -41,15 +41,15 @@ coverY: 0
 感谢您选择加入我们的游戏社区，我们希望这个Wiki能够为您的游戏之旅增添乐趣和便利！
 
 ### 快速链接🔗
-
+{% raw %}
 {% content-ref url="ru-men/wo-gai-ru-he-jin-ru-fu-wu-qi.md" %}
 [wo-gai-ru-he-jin-ru-fu-wu-qi.md](ru-men/wo-gai-ru-he-jin-ru-fu-wu-qi.md)
-{% endcontent-ref %}
-
+{% endcontent-ref %}{% endraw %}
+{% raw %}
 {% content-ref url="gai-shu/zhu-ce-yu-deng-lu.md" %}
 [zhu-ce-yu-deng-lu.md](gai-shu/zhu-ce-yu-deng-lu.md)
-{% endcontent-ref %}
-
+{% endcontent-ref %}{% endraw %}
+{% raw %}
 {% content-ref url="qi-ta/zan-zhu-wo-men.md" %}
 [zan-zhu-wo-men.md](qi-ta/zan-zhu-wo-men.md)
-{% endcontent-ref %}
+{% endcontent-ref %}{% endraw %}

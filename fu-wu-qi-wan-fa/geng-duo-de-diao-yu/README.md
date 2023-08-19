@@ -10,6 +10,10 @@ description: 钓鱼也成为了一种时尚
 
 ## 快速连接🔗
 
+{% content-ref url="diao-yu-bi-sai.md" %}
+[diao-yu-bi-sai.md](diao-yu-bi-sai.md)
+{% endcontent-ref %}
+
 {% content-ref url="xi-you-du-deng-ji.md" %}
 [xi-you-du-deng-ji.md](xi-you-du-deng-ji.md)
 {% endcontent-ref %}

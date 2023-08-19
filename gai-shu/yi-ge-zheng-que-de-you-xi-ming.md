@@ -33,7 +33,7 @@
 * PixelNinja
 * FantasyWizard
 
-{% hint style="info" %}
+{% hint style="danger" %}
 错误的例子
 
 1. **ProfanityPro**: 含有侮辱性的词汇。

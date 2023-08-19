@@ -19,6 +19,12 @@ description: 啊，这真的有人不会咩？要不还是写写吧
 7. ![](../.gitbook/assets/image.png)\
    加入服务器
 
+{% hint style="warning" %}
+注意:游戏/客户端版本必须为1.19.4
+{% endhint %}
+
+
+
 ## **大工完成！你现在可以进行下一步**[**注册**](../gai-shu/zhu-ce-yu-deng-lu.md)**力！**
 
 {% hint style="info" %}

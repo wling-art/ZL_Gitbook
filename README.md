@@ -12,11 +12,11 @@ coverY: 0
 
 我们的服务器Wiki旨在为您提供以下方面的帮助，以使您在游戏中更加轻松、顺利地享受。
 
-### **1. 新手入门指南：**&#x20;
+### **1. 新手入门指南：**
 
 如果您是新玩家，我们的Wiki将为您提供一份详尽的入门指南，帮助您熟悉游戏中的基本操作、规则和系统。
 
-### **2. 游戏机制解释：**&#x20;
+### **2. 游戏机制解释：**
 
 对于一些复杂的游戏机制、技能或特性，我们的Wiki将提供易于理解的解释，让您能够更深入地了解游戏中的各个方面。
 
@@ -49,7 +49,7 @@ coverY: 0
 {% content-ref url="gai-shu/zhu-ce-yu-deng-lu.md" %}
 [zhu-ce-yu-deng-lu.md](gai-shu/zhu-ce-yu-deng-lu.md)
 {% endcontent-ref %}
-{% raw %}
-{% content-ref url="qi-ta/zan-zhu-wo-men.md" %}
-[zan-zhu-wo-men.md](qi-ta/zan-zhu-wo-men.md)
-{% endcontent-ref %}{% endraw %}
+
+{% content-ref url="fu-wu-qi-wan-fa/geng-duo-de-diao-yu/diao-yu-bi-sai.md" %}
+[diao-yu-bi-sai.md](fu-wu-qi-wan-fa/geng-duo-de-diao-yu/diao-yu-bi-sai.md)
+{% endcontent-ref %}

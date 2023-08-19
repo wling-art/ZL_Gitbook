@@ -19,7 +19,7 @@ description: 啊，这真的有人不会咩？要不还是写写吧
 7. ![](../.gitbook/assets/image.png)\
    加入服务器
 
-## **大工完成！你现在可以进行下一步**[**注册**](zhu-ce-yu-deng-lu.md)**力！**
+## **大工完成！你现在可以进行下一步**[**注册**](../gai-shu/zhu-ce-yu-deng-lu.md)**力！**
 
 {% hint style="info" %}
 域名不一定是一直可以的，wiki也不可能一直更新

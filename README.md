@@ -46,8 +46,8 @@ coverY: 0
 [wo-gai-ru-he-jin-ru-fu-wu-qi.md](ru-men/wo-gai-ru-he-jin-ru-fu-wu-qi.md)
 {% endcontent-ref %}
 
-{% content-ref url="ru-men/zhu-ce-yu-deng-lu.md" %}
-[zhu-ce-yu-deng-lu.md](ru-men/zhu-ce-yu-deng-lu.md)
+{% content-ref url="gai-shu/zhu-ce-yu-deng-lu.md" %}
+[zhu-ce-yu-deng-lu.md](gai-shu/zhu-ce-yu-deng-lu.md)
 {% endcontent-ref %}
 
 {% content-ref url="qi-ta/zan-zhu-wo-men.md" %}

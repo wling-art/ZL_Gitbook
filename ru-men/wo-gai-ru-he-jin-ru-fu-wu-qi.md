@@ -28,5 +28,5 @@ description: 啊，这真的有人不会咩？要不还是写写吧
 
 [点击快速加入](http://qm.qq.com/cgi-bin/qm/qr?\_wv=1027\&k=QLrR-96sjjag6kW4s4aEiaCgSISS82rQ\&authKey=dT4xz1yY6M0JZSwPr5M1KylWGRQtKsrebJR4k5KY17ydwj7WgsH5KKKArRDzunLU\&noverify=0\&group\_code=770813535)
 
-"770813535" 这是我们的Q群号，Welcom Join\~
+"770813535" 这是我们的Q群号，Welcome Join\~
 {% endhint %}

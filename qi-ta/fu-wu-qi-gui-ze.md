@@ -51,10 +51,10 @@
 * &#x20;第二次违规：禁止进入服务器 1 天
 * &#x20;第三次违规：禁止进入服务器 3 天
 * &#x20;第n次违规：禁止进入服务器 7 天
-
+{% raw %}
 {% hint style="info" %}
 此处请参考[**一个正确的游戏名**](../gai-shu/yi-ge-zheng-que-de-you-xi-ming.md#4.-bi-mian-min-gan-nei-rong)
-{% endhint %}
+{% endhint %}{% endraw %}
 
 ## 禁止使用外挂工具：
 

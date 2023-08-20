@@ -39,17 +39,3 @@ coverY: 0
 在我们的服务器Wiki中，我们努力将所有的信息都整理得清晰易懂，以便每位玩家都能受益。如果您有任何反馈、建议或需要帮助，我们的支持团队随时愿意为您提供支持。
 
 感谢您选择加入我们的游戏社区，我们希望这个Wiki能够为您的游戏之旅增添乐趣和便利！
-
-### 快速链接🔗
-
-{% content-ref url="ru-men/wo-gai-ru-he-jin-ru-fu-wu-qi.md" %}
-[wo-gai-ru-he-jin-ru-fu-wu-qi.md](ru-men/wo-gai-ru-he-jin-ru-fu-wu-qi.md)
-{% endcontent-ref %}
-
-{% content-ref url="gai-shu/zhu-ce-yu-deng-lu.md" %}
-[zhu-ce-yu-deng-lu.md](gai-shu/zhu-ce-yu-deng-lu.md)
-{% endcontent-ref %}
-
-{% content-ref url="fu-wu-qi-wan-fa/geng-duo-de-diao-yu/diao-yu-bi-sai.md" %}
-[diao-yu-bi-sai.md](fu-wu-qi-wan-fa/geng-duo-de-diao-yu/diao-yu-bi-sai.md)
-{% endcontent-ref %}

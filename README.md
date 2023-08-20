@@ -39,3 +39,13 @@ coverY: 0
 在我们的服务器Wiki中，我们努力将所有的信息都整理得清晰易懂，以便每位玩家都能受益。如果您有任何反馈、建议或需要帮助，我们的支持团队随时愿意为您提供支持。
 
 感谢您选择加入我们的游戏社区，我们希望这个Wiki能够为您的游戏之旅增添乐趣和便利！
+
+## 快捷链接🔗
+
+{% content-ref url="jiao-cheng/xiao-ji-qiao.md" %}
+[xiao-ji-qiao.md](jiao-cheng/xiao-ji-qiao.md)
+{% endcontent-ref %}
+
+{% content-ref url="fu-wu-qi-wan-fa/geng-duo-de-diao-yu/" %}
+[geng-duo-de-diao-yu](fu-wu-qi-wan-fa/geng-duo-de-diao-yu/)
+{% endcontent-ref %}

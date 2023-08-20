@@ -15,6 +15,9 @@
 
 * [💡 小技巧](jiao-cheng/xiao-ji-qiao.md)
 * [🖨 常用指令](jiao-cheng/chang-yong-zhi-ling.md)
+* [🔒 领地](jiao-cheng/ling-di/README.md)
+  * [🔨 创建领地](jiao-cheng/ling-di/chuang-jian-ling-di.md)
+  * [⚙ 设置领地权限](jiao-cheng/ling-di/she-zhi-ling-di-quan-xian.md)
 
 ## 服务器玩法
 

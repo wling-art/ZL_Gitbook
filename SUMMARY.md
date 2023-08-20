@@ -18,6 +18,7 @@
 * [🔒 领地](jiao-cheng/ling-di/README.md)
   * [🔨 创建领地](jiao-cheng/ling-di/chuang-jian-ling-di.md)
   * [⚙ 设置领地权限](jiao-cheng/ling-di/she-zhi-ling-di-quan-xian.md)
+* [🦊 Get 一只狐狸](jiao-cheng/get-yi-zhi-hu-li.md)
 
 ## 服务器玩法
 

@@ -16,8 +16,10 @@ description: 啊，这真的有人不会咩？要不还是写写吧
 4. 填入服务器名称：`ZL Server`
 5. 填入服务器地址：`game.tblstudio.cn`
 6. 点击完成，然后点击“刷新”，然后双击这个
-7. ![](../.gitbook/assets/image.png)\
-   加入服务器
+7.  \
+    加入服务器
+
+    <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 注意:游戏/客户端版本必须为1.19.4

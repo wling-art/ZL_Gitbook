@@ -28,7 +28,15 @@
 
 如果您想成为我们服务器的赞助者，您可以使用微信方式赞赏我们！
 
-<figure><img src="https://img1.imgtp.com/2023/08/22/XzxGWGdg.png" alt="" width="375"><figcaption></figcaption></figure>
+爱发电：
+
+{% embed url="https://afdian.net/a/ZLServer" %}
+
+微信支持（不推荐，麻烦）：
+
+需要备注你的游戏名并联系作者
+
+<figure><img src="https://img1.imgtp.com/2023/08/22/XzxGWGdg.png" alt="" width="375"><figcaption><p>微信支付</p></figcaption></figure>
 
 我们由衷感谢您对我们公益服务器的支持和关注。您的赞助不仅有助于服务器的持续发展，也使整个社区更加繁荣和温馨。
 

@@ -31,5 +31,6 @@
 
 ## 其他
 
+* [🪙 展示自己](qi-ta/zhan-shi-zi-ji.md)
 * [❤ 赞助我们](qi-ta/zan-zhu-wo-men.md)
 * [📞 联系我们](gai-shu/lian-xi-wo-men.md)

@@ -54,7 +54,11 @@ description: 适用于群规
 * 第一次违规：要求更改用户名或皮肤
 * 第二次违规：禁止进入服务器 1 天
 * 第三次违规：禁止进入服务器 3 天
-* 第n次违规：禁止进入服务器 7 天 \{% hint style="info" %\} 此处请参考[**一个正确的游戏名**](../gai-shu/yi-ge-zheng-que-de-you-xi-ming.md#4.-bi-mian-min-gan-nei-rong) \{% endhint %\}
+* 第 n 次违规：禁止进入服务器 7 天&#x20;
+
+{% hint style="info" %}
+此处请参考[**一个正确的游戏名**](../gai-shu/yi-ge-zheng-que-de-you-xi-ming.md#4.-bi-mian-min-gan-nei-rong)
+{% endhint %}
 
 ## 禁止使用外挂工具：
 

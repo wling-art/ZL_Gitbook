@@ -4,6 +4,7 @@
 * [📘 服务器介绍](gai-shu/fu-wu-qi-jie-shao.md)
 * [📃 服务器规则](qi-ta/fu-wu-qi-gui-ze.md)
 * [❓ 常见问题](chang-jian-wen-ti.md)
+* [Page](page.md)
 
 ## 入门
 
@@ -18,7 +19,7 @@
 * [🔒 领地](jiao-cheng/ling-di/README.md)
   * [🔨 创建领地](jiao-cheng/ling-di/chuang-jian-ling-di.md)
   * [⚙ 设置领地权限](jiao-cheng/ling-di/she-zhi-ling-di-quan-xian.md)
-* [🦊 Get 一只狐狸](jiao-cheng/get-yi-zhi-hu-li.md)
+  * [🪚 移除领地](jiao-cheng/ling-di/yi-chu-ling-di.md)
 
 ## 服务器玩法
 
@@ -28,6 +29,8 @@
   * [🍷 稀有度等级](fu-wu-qi-wan-fa/geng-duo-de-diao-yu/xi-you-du-deng-ji.md)
   * [🐟 鱼的种类](fu-wu-qi-wan-fa/geng-duo-de-diao-yu/yu-de-zhong-lei.md)
   * [🏁 钓鱼比赛](fu-wu-qi-wan-fa/geng-duo-de-diao-yu/diao-yu-bi-sai.md)
+* [🦊 Get 一只狐狸](fu-wu-qi-wan-fa/get-yi-zhi-hu-li.md)
+* [💵 全球市场](fu-wu-qi-wan-fa/quan-qiu-shi-chang.md)
 
 ## 其他
 

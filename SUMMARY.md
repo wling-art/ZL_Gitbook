@@ -19,15 +19,16 @@
 
 * [💡 小技巧](jiao-cheng/xiao-ji-qiao.md)
 * [🖨 常用指令](jiao-cheng/chang-yong-zhi-ling.md)
-* [🔒 领地](jiao-cheng/ling-di/README.md)
-  * [🔨 创建领地](jiao-cheng/ling-di/chuang-jian-ling-di.md)
-  * [⚙ 设置领地权限](jiao-cheng/ling-di/she-zhi-ling-di-quan-xian.md)
-  * [🪚 移除领地](jiao-cheng/ling-di/yi-chu-ling-di.md)
 
 ## 服务器玩法
 
+* [🎗 箱子锁](fu-wu-qi-wan-fa/xiang-zi-suo.md)
 * [✏ 服务器阶级](fu-wu-qi-wan-fa/fu-wu-qi-jie-ji.md)
 * [🌀 粘液科技(Slimefun 4)](fu-wu-qi-wan-fa/nian-ye-ke-ji-slimefun-4.md)
+* [🔒 领地](fu-wu-qi-wan-fa/ling-di/README.md)
+  * [🔨 创建领地](fu-wu-qi-wan-fa/ling-di/chuang-jian-ling-di.md)
+  * [⚙ 设置领地权限](fu-wu-qi-wan-fa/ling-di/she-zhi-ling-di-quan-xian.md)
+  * [🪚 移除领地](fu-wu-qi-wan-fa/ling-di/yi-chu-ling-di.md)
 * [🎣 更多的钓鱼](fu-wu-qi-wan-fa/geng-duo-de-diao-yu/README.md)
   * [🍷 稀有度等级](fu-wu-qi-wan-fa/geng-duo-de-diao-yu/xi-you-du-deng-ji.md)
   * [🐟 鱼的种类](fu-wu-qi-wan-fa/geng-duo-de-diao-yu/yu-de-zhong-lei.md)

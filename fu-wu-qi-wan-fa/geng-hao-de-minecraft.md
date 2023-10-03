@@ -14,7 +14,7 @@ description: 让Minecraft变得更好！
 
 右键完全生长的植物即可立即收获并重新种植种子。如果植物具有独特的种子，则不会丢弃种子。
 
-> <img src="../.gitbook/assets/better-harvesting.gif" alt="" data-size="original">
+> <img src="https://oddlama.github.io/vane/assets/gifs/better-harvesting.gif" alt="" data-size="original">
 
 ## 查找物品
 
@@ -24,13 +24,13 @@ description: 让Minecraft变得更好！
 
 如果您的库存中已有相同类型的物品，您也可以只 按住 **`Shift`** 并在打开的库存中右键单击它以执行对该项目类型的搜索。
 
-> <img src="../.gitbook/assets/find_item.gif" alt="" data-size="original">
+> <img src="https://oddlama.github.io/vane/assets/gifs/find_item.gif" alt="" data-size="original">
 
 ## 草径加速
 
 你会在草径上跑得更快
 
-> <img src="../.gitbook/assets/grass-paths.gif" alt="" data-size="original">
+> <img src="https://oddlama.github.io/vane/assets/gifs/sickle.gif" alt="" data-size="original">
 
 ## 镰刀
 
@@ -43,3 +43,5 @@ description: 让Minecraft变得更好！
 ### 预览
 
 > <img src="../.gitbook/assets/sickle.gif" alt="" data-size="original">
+
+## 更多

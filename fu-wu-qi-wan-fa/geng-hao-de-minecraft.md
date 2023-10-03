@@ -8,7 +8,7 @@ description: 让Minecraft变得更好！
 
 双门现在将在您打开其中一侧时自动打开另一侧，因此两扇门同时打开和关闭。 无论玩家是否右键单击它们或涉及红石。
 
-> <img src="../.gitbook/assets/double-doors.gif" alt="" data-size="original">
+> <img src="https://oddlama.github.io/vane/assets/gifs/double-doors.gif" alt="" data-size="original">
 
 ## 更好的农业
 
@@ -44,4 +44,6 @@ description: 让Minecraft变得更好！
 
 > <img src="../.gitbook/assets/sickle.gif" alt="" data-size="original">
 
-## 更多
+{% embed url="https://oddlama.github.io/vane/" %}
+插件官方网站
+{% endembed %}

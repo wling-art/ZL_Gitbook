@@ -33,7 +33,8 @@
   * [🍷 稀有度等级](fu-wu-qi-wan-fa/geng-duo-de-diao-yu/xi-you-du-deng-ji.md)
   * [🐟 鱼的种类](fu-wu-qi-wan-fa/geng-duo-de-diao-yu/yu-de-zhong-lei.md)
   * [🏁 钓鱼比赛](fu-wu-qi-wan-fa/geng-duo-de-diao-yu/diao-yu-bi-sai.md)
-* [🦊 Get 一只狐狸](fu-wu-qi-wan-fa/get-yi-zhi-hu-li.md)
+* [🦊 养一只狐狸](fu-wu-qi-wan-fa/yang-yi-zhi-hu-li.md)
+* [😻 拍拍你的宠物](fu-wu-qi-wan-fa/pai-pai-ni-de-chong-wu.md)
 * [💵 全球市场](fu-wu-qi-wan-fa/quan-qiu-shi-chang.md)
 
 ## 其他

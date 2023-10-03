@@ -22,6 +22,7 @@
 
 ## 服务器玩法
 
+* [😊 更好的Minecraft](fu-wu-qi-wan-fa/geng-hao-de-minecraft.md)
 * [🎗 箱子锁](fu-wu-qi-wan-fa/xiang-zi-suo.md)
 * [✏ 服务器阶级](fu-wu-qi-wan-fa/fu-wu-qi-jie-ji.md)
 * [🌀 粘液科技(Slimefun 4)](fu-wu-qi-wan-fa/nian-ye-ke-ji-slimefun-4.md)

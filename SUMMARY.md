@@ -17,8 +17,8 @@
 
 ## 教程
 
-* [💡 小技巧](jiao-cheng/xiao-ji-qiao.md)
 * [🖨 常用指令](jiao-cheng/chang-yong-zhi-ling.md)
+* [💡 小技巧](jiao-cheng/xiao-ji-qiao.md)
 
 ## 服务器玩法
 
